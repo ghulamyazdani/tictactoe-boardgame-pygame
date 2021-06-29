@@ -1,2 +1,2 @@
 # tictactoe-boardgame-pygame
-![image description](the_path_to/image.svg)
+![tictactoegame](https://github.com/ghulamyazdani/tictactoe-boardgame-pygame/blob/main/tictactoe.gif)
